@@ -131,19 +131,35 @@ You may display prompts, but your program must still correctly read the 16 score
 ---
 
 ## Output Format
-Your program must print these lines clearly:
+Your program should display a **full academic report** for the student.
+
+The report may include:
+- course code
+- score
+- grade
+- grade point
+- credit unit
+- weighted points
+
+It must also display the following summary lines clearly:
 
 Semester I GPA: XX.XX  
 Semester II GPA: XX.XX  
 CGPA: XX.XX  
 Classification: XXXXX
 
-Example:
+Example summary section:
 
 Semester I GPA: 4.17  
 Semester II GPA: 3.54  
 CGPA: 3.85  
 Classification: Second Class Upper
+
+For autograding to work correctly, these summary labels must appear exactly as written:
+- `Semester I GPA:`
+- `Semester II GPA:`
+- `CGPA:`
+- `Classification:`
 
 ---
 
