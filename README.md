@@ -1,7 +1,7 @@
-# Year One GPA and CGPA Calculator in C
+# GPA and CGPA Calculator
 
 ## Course
-Computing I
+Computing II
 
 ## Assignment Type
 Individual Assignment
