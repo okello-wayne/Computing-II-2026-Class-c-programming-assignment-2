@@ -12,7 +12,7 @@ Variables, constants, operators, expressions, selection statements (`if`, `if...
 ---
 
 ## Background
-A university uses **Grade Point Average (GPA)** to measure a student’s academic performance in a semester and **Cumulative Grade Point Average (CGPA)** to measure performance across semesters.
+Kyambogo university uses **Grade Point Average (GPA)** to measure a student’s academic performance in a semester and **Cumulative Grade Point Average (CGPA)** to measure performance across semesters.
 
 In this assignment, you will write **one C program** that calculates:
 
@@ -111,7 +111,6 @@ Example:
 Name: John Doe
 Registration Number: 23/U/12345
 */
----
 
 ## Input Format
 Your program should read **16 scores** in this exact order:
